@@ -1,27 +1,27 @@
-# ⚔TheContestGrinds
+# TheContestGrinds
 
 Welcome to **TheContestGrinds** — a personal archive of all the coding contest problems I've solved across platforms like **Codeforces**, **CodeChef**, **LeetCode**, and **AtCoder**.
 
-This repo is where the grind meets the code. From WA to AC, from brute force to `O(log n)` optimizations — this is the dojo where I sharpen my DSA skills one contest at a time.
+This is my grind zone. From WA to AC, from brute force to `O(log n)` sorcery — this repo is where I grow as a problem solver, one contest at a time. 
 
 ---
 
 ## Why this repo?
 
-- Track my growth in competitive programming
-- Revisit patterns, templates, and logic
-- Maintain a clean and organized record of solved problems
-- Stay consistent and motivated by visual progress
-- Showcase my problem-solving skills for interviews & open-source
+- Track my journey in competitive programming
+- Revisit problem-solving patterns and DSA templates
+- Measure consistency and progress
+- Showcase real-world CP experience for interviews
+- Help others by sharing clean, well-documented code
 
 ---
 
 ## Platforms Covered
 
-- **Codeforces**
-- **LeetCode**
-- **CodeChef**
-- **AtCoder**
-- Mock contests and custom challenges
+- [**Codeforces**](https://codeforces.com/profile/cererus9)
+- [**CodeChef**](https://www.codechef.com/users/epic_hawks_16)
+- [**LeetCode**](https://leetcode.com/u/Navneet-CereCode/)
+- [**AtCoder**](https://atcoder.jp/users/cerecode)
+- Custom mock contests
 
 ---
